@@ -13,3 +13,7 @@ $ ./backlight.sh 0
 # To set backlight brightness to 10
 $ ./backlight.sh 10
 ```
+
+## Tested On
+
+* Asus Zenbook UX32 Series
